@@ -1,3 +1,3 @@
 def hashketball
-  hashketball = {}
+  game_hash = {}
 end
