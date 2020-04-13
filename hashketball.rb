@@ -32,14 +32,14 @@ def game_hash
               :blocks => 1,
               :slam_dunks => 15 },
               {:player_name => "Mason Plimlee",
-                :number => 30,
-                :shoe => 14,
-                :points => 12,
-                :rebounds => 12,
-                :assists => 12,
-                :steals => 12,
-                :blocks => 12,
-                :slam_dunks => 7}
+                :number => 1,
+                :shoe => 19,
+                :points => 26,
+                :rebounds => 11,
+                :assists => 6,
+                :steals => 3,
+                :blocks => 8,
+                :slam_dunks => 5 }
       ]
     },
     :away => {
