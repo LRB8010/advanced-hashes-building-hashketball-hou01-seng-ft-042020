@@ -1,2 +1,3 @@
 def hashketball
   hashketball = {}
+end
